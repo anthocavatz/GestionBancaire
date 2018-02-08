@@ -9,9 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37bd1e2f-739b-4b23-bf3d-83665860fe84" name="Default" comment="Msie a jour applation &#10;- Correction bugs (liste compte et operation vide, montant uniquement en numérique)&#10;- Modification ADO (ajout méthodes)&#10;- Crédit ou débit du compte en fonction du montant de l'opération&#10;- modification authentificaiton&#10;    - methode getOneClient(login)&#10;    - si l'utilisateur n'existe pas, création &#10;- Si aucun compte n'est référencé, possibilité de creer un compte&#10;   - génération numéro compte aléatoire&#10;   - montant = 0.0&#10;">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
+    <list default="true" id="37bd1e2f-739b-4b23-bf3d-83665860fe84" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GestionBancaire.iws" />
@@ -2434,10 +2432,18 @@
       <option name="presentableId" value="Default" />
       <updated>1517989123154</updated>
     </task>
+    <task id="LOCAL-00001" summary="Msie a jour applation &#10;- Correction bugs (liste compte et operation vide, montant uniquement en numérique)&#10;- Modification ADO (ajout méthodes)&#10;- Crédit ou débit du compte en fonction du montant de l'opération&#10;- modification authentificaiton&#10;    - methode getOneClient(login)&#10;    - si l'utilisateur n'existe pas, création &#10;- Si aucun compte n'est référencé, possibilité de creer un compte&#10;   - génération numéro compte aléatoire&#10;   - montant = 0.0&#10;">
+      <created>1518102370673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1518102370673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
